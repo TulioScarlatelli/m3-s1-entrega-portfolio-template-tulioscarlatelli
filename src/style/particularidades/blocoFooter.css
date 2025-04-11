@@ -1,0 +1,34 @@
+.blocoFooter {
+    height: 10.625rem; /* 170px */
+}
+
+.footer-1 {
+    width: 26.375rem; /* 422px */
+    height: 4.3125rem; /* 69px */
+}
+
+.footer-2 {
+    width: 9.625rem; /* 154px */
+    height: 3rem; /* 48px */
+}
+
+.fundoIcon-1 {
+    width: 3rem; /* 48px */
+    height: 3rem; /* 48px */
+    border-radius: 9.375rem; /* 150px */
+    background-color: #506CCF;
+}
+
+.fundoIcon-2 {
+    width: 3rem; /* 48px */
+    height: 3rem; /* 48px */
+    border-radius: 9.375rem; /* 150px */
+    background-color: #CF50AC;
+}
+
+.fundoIcon-3 {
+    width: 3rem; /* 48px */
+    height: 3rem; /* 48px */
+    border-radius: 9.375rem; /* 150px */
+    background-color: #0E76A8;
+}

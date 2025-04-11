@@ -1,0 +1,16 @@
+.blocoBotaoBanner {
+    width: 14rem;       /* 224px */
+    height: 3rem;       /* 48px */
+}
+
+.botaoBanner {
+    width: 10rem;       /* 160px */
+    height: 3rem;       /* 48px */
+    border-radius: 0.5rem; /* 8px */
+    background-color: #623CEA;
+}
+
+.imagemBotaoBanner {
+    width: 3rem;        /* 48px */
+    height: 3rem;       /* 48px */
+}

@@ -1,0 +1,48 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0rem 9.375rem; /* 150px = 9.375rem */
+}
+
+.header {
+    height: 4.5rem; /* 72px */
+}
+
+.banner {
+    width: 37.9375rem; /* 607px */
+    height: 31.0625rem; /* 497px */
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.colum {
+    display: flex;
+    flex-direction: column;
+}
+
+.config-1 {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.config-2 {
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.perfilImg {
+    width: 2.875rem; /* 46px */
+    height: 2.875rem; /* 46px */
+    top: 6.5rem; /* 104px */
+    left: 15.1875rem; /* 243px */
+    border-radius: 9.375rem; /* 150px */
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

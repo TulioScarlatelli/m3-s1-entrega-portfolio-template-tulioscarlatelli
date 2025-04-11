@@ -1,0 +1,52 @@
+.blocoContatos {
+    width: 63.8125rem;   /* 1021px */
+    height: 30.4375rem;  /* 487px */
+    border-top: 9.375rem; /* 150px */
+}
+
+.conversation {
+    width: 25.9375rem;   /* 415px */
+    height: 12.5625rem;  /* 201px */
+    display: flex;
+}
+
+.contatos {
+    width: 27.4375rem;   /* 439px */
+    height: 30.4375rem;  /* 487px */
+}
+
+.contatoCard {
+    width: 27.4375rem;   /* 439px */
+    height: 7.3125rem;   /* 117px */
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardContato {
+    width: 21.1875rem;   /* 339px */
+    height: 7.3125rem;   /* 117px */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.fundoSimbolo-verde {
+    width: 4.5rem;       /* 72px */
+    height: 4.5rem;      /* 72px */
+    border-radius: 0.5rem; /* 8px */
+    background: linear-gradient(180deg, #50C571 0%, #50CF9A 100%);
+}
+
+.fundoSimbolo-roxo {
+    width: 4.5rem;       /* 72px */
+    height: 4.5rem;      /* 72px */
+    border-radius: 0.5rem; /* 8px */
+    background: linear-gradient(180deg, #BD3B9B 0%, #EE5BC7 100%);
+}
+
+.fundoSimbolo-azul {
+    width: 4.5rem;       /* 72px */
+    height: 4.5rem;      /* 72px */
+    border-radius: 0.5rem; /* 8px */
+    background: linear-gradient(180deg, #4E73FF 0%, #506CCF 100%);
+}

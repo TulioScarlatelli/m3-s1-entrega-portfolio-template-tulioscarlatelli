@@ -1,0 +1,23 @@
+.primeiraParte {
+    width: 15.125rem;     /* 242px */
+    height: 4.6875rem;    /* 75px */
+    margin-top: 3.5rem;   /* 56px */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.segundaParte {
+    width: 64.375rem;     /* 1030px */
+    height: 36.1875rem;   /* 579px */
+    margin-top: 13.4375rem; /* 215px */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 30.125rem;     /* 482px */
+    height: 14.125rem;    /* 226px */
+    gap: 1.625rem;        /* 26px */
+}
